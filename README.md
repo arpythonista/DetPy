@@ -5,10 +5,11 @@ A python program integrated with numpy that creates a determinant value from num
 - python2
 - numpy
 
-Numpy installation :
+#Numpy installation
+
 $pip install numpy
 
-Usage of script :
+#Usage of script
 
 $ python DetPy.py
 
