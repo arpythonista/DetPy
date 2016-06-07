@@ -18,3 +18,5 @@ Enter some array like this "[1,2],[2,3]" (without quotations)
 [1,2],[2,3]
 
 Determinant = -1
+
+$
