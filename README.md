@@ -1,8 +1,14 @@
 # DetPy
 A python program integrated with numpy that creates a determinant value from numpy array
 
+#Dependencies
+- python2
+- numpy
 
-Usage :
+Numpy installation :
+$pip install numpy
+
+Usage of script :
 
 $ python DetPy.py
 
