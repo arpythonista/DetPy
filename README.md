@@ -7,7 +7,7 @@ A python program integrated with numpy that creates a determinant value from num
 
 #Numpy installation
 
-$pip install numpy
+$ pip install numpy
 
 #Usage of script
 
